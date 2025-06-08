@@ -1,0 +1,161 @@
+year,tourney,round,opponent,avg speed,1st: avg,1st: stdev,1st: t avg,1st: wide avg,1st: max,1st: min,2nd: avg,2nd: stdev,2nd: t avg,2nd: wide avg,2nd: max,2nd: min,surface_clay,surface_grass,surface_hard,result_W
+2022,US Open,R16,Tiafoe,108.5,113.9,7.7,116.9,112.5,123.0,77.0,101.2,4.1,101.8,100.3,108.0,92.0,False,False,True,False
+2022,US Open,R32,Gasquet,107.9,112.5,6.3,117.2,108.0,122.0,103.0,99.3,5.1,99.6,,109.0,90.0,False,False,True,True
+2022,US Open,R64,Fognini,106.5,112.2,7.9,114.0,108.4,122.0,76.0,97.3,4.6,97.6,95.0,103.0,79.0,False,False,True,True
+2022,US Open,R128,Hijikata,107.2,113.8,5.8,117.0,107.8,122.0,101.0,98.2,3.6,96.9,,105.0,93.0,False,False,True,True
+2022,Wimbledon,QF,Fritz,103.0,107.0,6.5,109.2,103.6,120.0,95.0,94.7,5.4,94.7,94.0,112.0,83.0,False,True,False,True
+2022,Wimbledon,R16,Van,109.9,115.1,4.5,118.5,111.4,123.0,105.0,100.1,4.7,100.1,,109.0,89.0,False,True,False,True
+2022,Wimbledon,R32,Sonego,110.8,115.0,5.1,118.1,112.2,124.0,105.0,100.4,4.6,99.8,98.0,107.0,89.0,False,True,False,True
+2022,Wimbledon,R64,Berankis,107.6,111.8,5.7,115.0,107.5,122.0,98.0,98.9,4.2,98.8,99.0,107.0,90.0,False,True,False,True
+2022,Wimbledon,R128,Cerundolo,109.7,114.3,5.6,116.7,111.4,124.0,100.0,98.1,4.9,97.7,104.0,110.0,91.0,False,True,False,True
+2019,US Open,F,Medvedev,105.9,115.2,6.2,119.0,111.7,125.0,94.0,91.8,4.9,91.3,92.7,102.0,81.0,False,False,True,True
+2019,US Open,SF,Berrettini,108.1,116.8,6.9,119.9,111.1,126.0,100.0,96.5,5.2,96.0,,108.0,88.0,False,False,True,True
+2019,US Open,QF,Schwartzman,109.7,118.6,5.8,121.1,112.3,128.0,106.0,94.3,4.7,94.1,88.5,102.0,85.0,False,False,True,True
+2019,US Open,R16,Cilic,109.1,115.5,8.1,120.8,112.7,126.0,94.0,99.3,4.2,99.3,98.5,110.0,91.0,False,False,True,True
+2019,US Open,R32,Chung,106.2,115.8,7.3,121.1,110.2,125.0,100.0,96.1,4.8,98.7,95.0,106.0,84.0,False,False,True,True
+2019,US Open,R128,Millman,109.3,116.5,8.2,120.7,110.4,125.0,97.0,98.8,4.4,99.1,97.0,107.0,87.0,False,False,True,True
+2019,Wimbledon,SF,Federer,110.2,116.8,5.8,119.1,113.5,124.0,101.0,97.6,4.6,95.8,96.7,107.0,89.0,False,True,False,False
+2019,Wimbledon,QF,Querrey,109.3,115.9,6.0,118.8,111.1,125.0,102.0,99.0,3.9,96.8,99.8,106.0,90.0,False,True,False,True
+2019,Wimbledon,R16,Sousa,109.0,115.7,5.8,118.9,111.4,125.0,102.0,98.8,4.1,100.8,95.3,107.0,93.0,False,True,False,True
+2019,Wimbledon,R32,Tsonga,111.1,116.3,6.5,119.7,110.7,125.0,94.0,98.3,3.5,95.0,100.0,108.0,91.0,False,True,False,True
+2019,Wimbledon,R64,Kyrgios,111.0,117.8,4.8,120.5,114.8,125.0,103.0,98.6,4.3,102.8,100.3,109.0,90.0,False,True,False,True
+2019,Wimbledon,R128,Sugita,109.9,117.6,6.2,121.3,112.6,126.0,100.0,99.6,3.7,99.4,98.0,106.0,91.0,False,True,False,True
+2019,Roland Garros,F,Thiem,106.3,111.6,5.0,,,122.0,100.0,91.6,4.9,,,99.0,76.0,True,False,False,True
+2019,Roland Garros,SF,Federer,102.9,105.5,6.1,,,121.0,89.0,90.3,4.6,,,100.0,85.0,True,False,False,True
+2019,Roland Garros,QF,Nishikori,107.7,112.6,4.8,,,124.0,101.0,92.3,5.2,,,100.0,85.0,True,False,False,True
+2019,Roland Garros,R16,Londero,106.6,111.5,5.6,,,121.0,99.0,94.4,4.9,,,104.0,82.0,True,False,False,True
+2019,Roland Garros,R32,Goffin,107.6,116.3,3.9,,,123.0,103.0,93.6,5.6,,,106.0,82.0,True,False,False,True
+2019,Roland Garros,R64,Maden,106.3,113.3,4.3,,,122.0,103.0,93.1,4.3,,,101.0,86.0,True,False,False,True
+2019,Roland Garros,R128,Hanfmann,107.9,113.2,5.1,,,123.0,101.0,94.2,4.2,,,104.0,86.0,True,False,False,True
+2018,US Open,SF,del,106.9,111.0,6.5,115.1,107.2,123.0,99.0,93.5,3.8,96.3,,98.0,86.0,False,False,True,False
+2018,US Open,QF,Thiem,104.7,110.5,6.5,116.1,105.0,123.0,96.0,92.5,3.7,94.8,91.3,100.0,83.0,False,False,True,True
+2018,US Open,R16,Basilashvili,102.7,108.7,7.4,113.7,104.4,127.0,78.0,90.6,4.5,91.0,88.0,106.0,81.0,False,False,True,True
+2018,US Open,R32,Khachanov,102.6,109.8,5.8,112.9,106.9,121.0,96.0,90.3,5.2,92.1,92.0,105.0,83.0,False,False,True,True
+2018,US Open,R64,Pospisil,106.8,111.3,6.9,113.5,109.2,124.0,96.0,92.5,6.4,89.2,88.5,110.0,80.0,False,False,True,True
+2018,US Open,R128,Ferrer,102.0,107.5,6.6,110.3,104.1,121.0,92.0,91.1,4.2,88.8,92.5,99.0,82.0,False,False,True,True
+2018,Wimbledon,SF,Djokovic,108.9,114.3,6.5,117.6,109.4,125.0,93.0,94.6,5.0,93.3,,104.0,74.0,False,True,False,False
+2018,Wimbledon,QF,del,107.3,112.5,6.6,115.2,109.2,125.0,92.0,93.8,4.8,96.0,,102.0,80.0,False,True,False,True
+2018,Wimbledon,R16,Vesely,109.4,115.0,6.0,118.6,108.5,124.0,100.0,96.6,4.0,97.0,96.7,103.0,85.0,False,True,False,True
+2018,Wimbledon,R32,De,107.4,114.9,7.4,121.0,110.0,125.0,94.0,96.6,4.5,97.0,97.0,104.0,87.0,False,True,False,True
+2018,Wimbledon,R64,Kukushkin,109.0,114.9,6.3,117.7,111.3,125.0,100.0,95.8,4.7,93.8,96.3,105.0,84.0,False,True,False,True
+2018,Wimbledon,R128,Sela,110.7,115.1,5.9,119.3,110.9,126.0,102.0,95.7,3.2,95.7,,100.0,86.0,False,True,False,True
+2017,US Open,F,Anderson,102.8,109.4,7.6,115.1,103.3,122.0,96.0,91.4,4.4,91.2,88.5,99.0,83.0,False,False,True,True
+2017,US Open,SF,del,107.5,112.4,7.2,117.4,106.6,124.0,97.0,93.5,4.3,96.4,87.5,105.0,83.0,False,False,True,True
+2017,US Open,QF,Rublev,108.9,114.0,7.2,118.5,107.3,123.0,95.0,96.1,4.1,96.3,,105.0,87.0,False,False,True,True
+2017,US Open,R16,Dolgopolov,109.2,114.5,6.0,117.6,109.4,123.0,100.0,95.5,4.4,95.6,,101.0,83.0,False,False,True,True
+2017,US Open,R32,Mayer,107.1,112.3,6.2,115.9,107.1,122.0,99.0,95.2,4.5,90.0,98.5,103.0,85.0,False,False,True,True
+2017,US Open,R64,Daniel,108.0,115.0,6.0,116.7,108.2,126.0,91.0,95.8,4.0,97.3,101.0,104.0,89.0,False,False,True,True
+2017,US Open,R128,Lajovic,109.5,116.3,5.7,119.1,114.8,126.0,101.0,96.4,3.8,96.9,99.0,107.0,89.0,False,False,True,True
+2017,Wimbledon,R16,Muller,111.0,116.1,5.6,119.4,113.3,125.0,98.0,100.1,4.7,100.6,101.3,108.0,89.0,False,True,False,False
+2017,Wimbledon,R32,Khachanov,112.5,117.2,5.8,120.3,112.8,125.0,101.0,102.0,4.4,105.3,103.0,113.0,91.0,False,True,False,True
+2017,Wimbledon,R64,Young,109.8,115.3,7.3,119.8,109.2,126.0,96.0,99.1,3.3,99.8,,106.0,95.0,False,True,False,True
+2017,Wimbledon,R128,Millman,110.7,116.3,5.4,119.0,112.5,124.0,101.0,100.1,3.4,99.7,100.5,107.0,92.0,False,True,False,True
+2017,Roland Garros,F,Wawrinka,107.5,114.3,4.6,115.0,113.8,123.0,104.0,95.0,3.7,92.8,,101.0,88.0,True,False,False,True
+2017,Roland Garros,SF,Thiem,106.9,114.7,4.8,116.7,113.0,125.0,105.0,89.3,3.4,88.6,89.0,97.0,85.0,True,False,False,True
+2017,Roland Garros,QF,Carreno,106.6,113.7,4.4,114.0,110.0,118.0,104.0,91.4,5.1,94.0,92.0,100.0,84.0,True,False,False,True
+2017,Roland Garros,R16,Bautista,104.0,110.3,4.3,111.3,109.4,118.0,100.0,90.2,6.0,91.0,89.0,100.0,78.0,True,False,False,True
+2017,Roland Garros,R32,Basilashvili,107.2,115.4,3.6,118.5,112.6,120.0,108.0,95.8,3.0,93.0,,101.0,91.0,True,False,False,True
+2017,Roland Garros,R64,Haase,107.3,114.4,6.4,118.5,111.2,123.0,93.0,93.7,4.7,89.5,,103.0,85.0,True,False,False,True
+2017,Roland Garros,R128,Paire,106.6,112.9,4.3,116.4,111.1,121.0,103.0,95.5,3.8,97.5,98.0,102.0,88.0,True,False,False,True
+2017,Australian Open,F,Federer,105.4,109.7,5.4,115.2,104.5,124.0,96.0,92.7,4.7,89.3,95.6,103.0,82.0,False,False,True,False
+2017,Australian Open,SF,Dimitrov,104.0,108.5,6.3,,,123.0,96.0,90.5,4.4,,,105.0,82.0,False,False,True,True
+2017,Australian Open,QF,Raonic,104.8,108.9,6.8,113.6,107.1,123.0,90.0,92.3,5.5,88.8,100.0,100.0,80.0,False,False,True,True
+2017,Australian Open,R16,Monfils,104.6,109.3,6.3,111.1,105.1,123.0,96.0,91.2,3.9,90.7,98.0,98.0,80.0,False,False,True,True
+2017,Australian Open,R32,Zverev,105.7,109.7,6.5,113.4,105.5,123.0,92.0,92.1,5.1,95.5,90.0,100.0,78.0,False,False,True,True
+2017,Australian Open,R64,Baghdatis,107.1,110.7,5.7,114.5,105.5,122.0,98.0,92.8,4.1,98.5,,102.0,85.0,False,False,True,True
+2017,Australian Open,R128,Mayer,108.1,113.3,4.7,117.7,113.2,121.0,102.0,96.2,4.1,101.3,,105.0,90.0,False,False,True,True
+2016,US Open,R16,Pouille,104.5,112.8,5.2,115.4,108.2,122.0,101.0,91.6,4.5,91.4,89.0,104.0,81.0,False,False,True,False
+2016,US Open,R32,Kuznetsov,107.9,113.5,6.0,115.6,111.6,125.0,96.0,94.8,3.5,95.3,87.0,101.0,87.0,False,False,True,True
+2016,US Open,R64,Seppi,105.0,113.9,5.6,117.9,109.6,123.0,97.0,93.3,5.1,89.4,,105.0,82.0,False,False,True,True
+2016,US Open,R128,Istomin,105.0,112.0,6.4,114.7,108.2,123.0,98.0,94.3,4.0,92.7,,103.0,89.0,False,False,True,True
+2016,Roland Garros,R64,Bagnis,101.5,104.8,5.1,106.5,106.6,113.0,93.0,87.8,3.7,89.5,85.0,94.0,82.0,True,False,False,True
+2016,Roland Garros,R128,Groth,103.3,106.2,4.7,114.5,106.3,115.0,96.0,89.2,4.9,89.0,,96.0,83.0,True,False,False,True
+2016,Australian Open,R128,Verdasco,104.2,112.0,5.7,,,124.0,97.0,88.9,3.5,,,95.0,80.0,False,False,True,False
+2015,US Open,R32,Fognini,103.2,110.4,7.4,,,125.0,97.0,87.9,4.2,,,96.0,78.0,False,False,True,False
+2015,US Open,R64,Schwartzman,106.5,113.1,5.2,,,126.0,100.0,91.7,3.7,,,98.0,86.0,False,False,True,True
+2015,US Open,R128,Coric,103.9,109.3,7.7,,,124.0,95.0,87.7,4.3,,,95.0,77.0,False,False,True,True
+2015,Wimbledon,R64,Brown,106.4,112.2,6.5,,,124.0,97.0,90.6,2.7,,,97.0,86.0,False,True,False,False
+2015,Wimbledon,R128,Bellucci,106.8,115.6,5.0,,,123.0,104.0,91.9,2.3,,,96.0,87.0,False,True,False,True
+2015,Roland Garros,QF,Djokovic,106.1,114.4,6.0,,,126.0,101.0,92.5,4.0,,,102.0,83.0,True,False,False,False
+2015,Roland Garros,R16,Sock,103.1,108.2,7.6,,,123.0,69.0,92.3,4.8,,,99.0,82.0,True,False,False,True
+2015,Roland Garros,R32,Kuznetsov,105.6,113.8,6.5,,,125.0,88.0,93.5,4.0,,,103.0,83.0,True,False,False,True
+2015,Roland Garros,R64,Almagro,108.4,114.4,5.2,,,124.0,102.0,93.4,4.3,,,101.0,84.0,True,False,False,True
+2015,Roland Garros,R128,Halys,109.3,115.4,5.7,,,125.0,96.0,94.5,4.2,,,102.0,88.0,True,False,False,True
+2015,Australian Open,QF,Berdych,106.8,111.1,6.9,,,126.0,96.0,89.6,4.6,,,98.0,81.0,False,False,True,False
+2015,Australian Open,R16,Anderson,104.2,111.7,6.6,,,127.0,98.0,87.3,4.4,,,95.0,76.0,False,False,True,True
+2015,Australian Open,R32,Sela,103.1,110.1,6.4,,,121.0,95.0,88.3,5.7,,,100.0,78.0,False,False,True,True
+2015,Australian Open,R64,Smyczek,102.5,109.8,6.8,,,126.0,89.0,88.5,6.4,,,111.0,69.0,False,False,True,True
+2015,Australian Open,R128,Youzhny,105.0,113.9,6.4,,,125.0,101.0,88.6,4.2,,,95.0,78.0,False,False,True,True
+2014,Wimbledon,R16,Kyrgios,106.3,111.8,6.1,,,125.0,96.0,89.9,5.1,,,102.0,78.0,False,True,False,False
+2014,Wimbledon,R32,Kukushkin,104.8,113.1,6.1,,,125.0,96.0,88.0,4.7,,,97.0,79.0,False,True,False,True
+2014,Wimbledon,R64,Rosol,107.5,111.4,5.8,,,123.0,100.0,91.1,3.2,,,96.0,84.0,False,True,False,True
+2014,Wimbledon,R128,Klizan,105.1,110.9,6.0,,,126.0,98.0,88.9,4.8,,,101.0,80.0,False,True,False,True
+2014,Roland Garros,F,Djokovic,102.2,108.9,7.4,,,123.0,81.0,84.6,4.4,,,96.0,75.0,True,False,False,True
+2014,Roland Garros,SF,Murray,104.9,109.6,5.9,,,118.0,97.0,87.7,4.4,,,93.0,77.0,True,False,False,True
+2014,Roland Garros,QF,Ferrer,100.0,108.0,6.0,,,122.0,95.0,86.3,4.2,,,95.0,76.0,True,False,False,True
+2014,Roland Garros,R16,Lajovic,99.9,107.4,7.0,,,119.0,89.0,86.5,4.9,,,98.0,75.0,True,False,False,True
+2014,Roland Garros,R32,Mayer,96.6,102.3,5.5,,,114.0,84.0,81.1,5.1,,,90.0,74.0,True,False,False,True
+2014,Roland Garros,R64,Thiem,96.7,102.1,4.7,,,111.0,93.0,85.1,4.4,,,93.0,76.0,True,False,False,True
+2014,Roland Garros,R128,Ginepri,101.3,111.3,4.5,,,122.0,101.0,87.0,4.6,,,97.0,80.0,True,False,False,True
+2014,Australian Open,F,Wawrinka,96.9,,,,,124.0,,,,,,,74.0,False,False,True,False
+2014,Australian Open,SF,Federer,101.9,,,,,123.0,,,,,,,81.0,False,False,True,True
+2014,Australian Open,QF,Dimitrov,100.2,,,,,124.0,,,,,,,80.0,False,False,True,True
+2014,Australian Open,R16,Nishikori,108.3,,,,,125.0,,,,,,,83.0,False,False,True,True
+2014,Australian Open,R32,Monfils,105.2,,,,,127.0,,,,,,,82.0,False,False,True,True
+2014,Australian Open,R64,Kokkinakis,105.5,,,,,123.0,,,,,,,82.0,False,False,True,True
+2014,Australian Open,R128,Tomic,103.8,,,,,126.0,,,,,,,83.0,False,False,True,True
+2013,US Open,F,Djokovic,101.9,,,,,125.0,,,,,,,79.0,False,False,True,True
+2013,US Open,SF,Gasquet,103.3,,,,,123.0,,,,,,,79.0,False,False,True,True
+2013,US Open,QF,Robredo,98.9,,,,,125.0,,,,,,,73.0,False,False,True,True
+2013,US Open,R16,Kohlschreiber,100.1,,,,,124.0,,,,,,,74.0,False,False,True,True
+2013,US Open,R32,Dodig,100.4,,,,,123.0,,,,,,,76.0,False,False,True,True
+2013,US Open,R64,Dutra,102.8,,,,,123.0,,,,,,,85.0,False,False,True,True
+2013,US Open,R128,Harrison,104.8,,,,,121.0,,,,,,,81.0,False,False,True,True
+2013,Wimbledon,R128,Darcis,105.6,,,,,123.0,,,,,,,82.0,False,True,False,False
+2013,Roland Garros,F,Ferrer,103.6,,,,,124.0,,,,,,,82.0,True,False,False,True
+2013,Roland Garros,SF,Djokovic,102.6,,,,,123.0,,,,,,,77.0,True,False,False,True
+2013,Roland Garros,R16,Nishikori,102.2,,,,,121.0,,,,,,,79.0,True,False,False,True
+2013,Roland Garros,R32,Fognini,103.1,,,,,123.0,,,,,,,75.0,True,False,False,True
+2013,Roland Garros,R64,Klizan,100.8,,,,,118.0,,,,,,,74.0,True,False,False,True
+2013,Roland Garros,R128,Brands,105.1,,,,,120.0,,,,,,,81.0,True,False,False,True
+2012,Wimbledon,R64,Rosol,111.0,,,,,130.0,,,,,,,87.0,False,True,False,False
+2012,Wimbledon,R128,Bellucci,109.9,,,,,130.0,,,,,,,85.0,False,True,False,True
+2012,Roland Garros,F,Djokovic,105.9,,,,,128.0,,,,,,,76.0,True,False,False,True
+2012,Roland Garros,SF,Ferrer,104.6,,,,,125.0,,,,,,,84.0,True,False,False,True
+2012,Roland Garros,QF,Almagro,105.9,,,,,125.0,,,,,,,84.0,True,False,False,True
+2012,Roland Garros,R16,Monaco,106.8,,,,,126.0,,,,,,,83.0,True,False,False,True
+2012,Roland Garros,R32,Schwank,102.7,,,,,124.0,,,,,,,79.0,True,False,False,True
+2012,Roland Garros,R64,Istomin,105.5,,,,,128.0,,,,,,,83.0,True,False,False,True
+2012,Roland Garros,R128,Bolelli,105.7,,,,,124.0,,,,,,,85.0,True,False,False,True
+2012,Australian Open,F,Djokovic,104.4,,,,,126.0,,,,,,,75.0,False,False,True,False
+2012,Australian Open,SF,Federer,101.9,,,,,120.0,,,,,,,74.0,False,False,True,True
+2012,Australian Open,QF,Berdych,103.0,,,,,124.0,,,,,,,62.0,False,False,True,True
+2012,Australian Open,R16,Lopez,104.1,,,,,123.0,,,,,,,74.0,False,False,True,True
+2012,Australian Open,R32,Lacko,102.0,,,,,122.0,,,,,,,72.0,False,False,True,True
+2012,Australian Open,R64,Haas,100.3,,,,,121.0,,,,,,,74.0,False,False,True,True
+2012,Australian Open,R128,Kuznetsov,103.5,,,,,122.0,,,,,,,77.0,False,False,True,True
+2011,US Open,F,Djokovic,99.5,107.3,7.3,,,128.0,97.0,81.8,4.8,,,92.0,68.0,False,False,True,False
+2011,US Open,SF,Murray,104.9,115.5,7.9,,,128.0,101.0,83.4,3.2,,,90.0,75.0,False,False,True,True
+2011,US Open,QF,Roddick,102.3,109.8,7.6,,,125.0,97.0,85.6,4.5,,,95.0,77.0,False,False,True,True
+2011,US Open,R16,Muller,104.8,110.2,6.8,,,126.0,94.0,86.6,3.6,,,93.0,80.0,False,False,True,True
+2011,US Open,R32,Nalbandian,101.9,106.7,6.2,,,122.0,93.0,84.1,3.4,,,89.0,75.0,False,False,True,True
+2011,US Open,R64,Mahut,102.9,109.9,6.6,,,123.0,97.0,85.9,5.2,,,94.0,77.0,False,False,True,True
+2011,US Open,R128,Golubev,106.1,115.0,11.2,,,133.0,98.0,87.3,2.8,,,94.0,81.0,False,False,True,True
+2011,Wimbledon,F,Djokovic,112.1,118.2,6.6,,,126.0,97.0,89.2,4.0,,,95.0,81.0,False,True,False,False
+2011,Wimbledon,SF,Murray,108.0,116.2,7.2,,,128.0,100.0,90.2,3.8,,,96.0,80.0,False,True,False,True
+2011,Wimbledon,QF,Fish,106.3,113.0,7.3,,,125.0,96.0,91.8,4.1,,,102.0,86.0,False,True,False,True
+2011,Wimbledon,R16,del,109.4,115.7,9.3,,,130.0,92.0,91.8,4.9,,,100.0,73.0,False,True,False,True
+2011,Wimbledon,R32,Muller,105.3,111.3,6.2,,,122.0,98.0,89.9,4.9,,,99.0,79.0,False,True,False,True
+2011,Wimbledon,R64,Sweeting,107.6,114.6,6.6,,,126.0,99.0,91.4,4.7,,,99.0,83.0,False,True,False,True
+2011,Roland Garros,F,Federer,102.0,106.8,5.7,,,126.0,95.0,88.7,4.6,,,104.0,81.0,True,False,False,True
+2011,Roland Garros,SF,Murray,103.5,108.9,6.4,,,126.0,92.0,87.7,4.2,,,96.0,80.0,True,False,False,True
+2011,Roland Garros,QF,Soderling,104.0,109.8,4.4,,,117.0,99.0,84.5,4.2,,,92.0,77.0,True,False,False,True
+2011,Roland Garros,R16,Ljubicic,105.4,112.3,6.0,,,123.0,91.0,89.9,4.1,,,102.0,82.0,True,False,False,True
+2011,Roland Garros,R32,Veic,103.3,109.0,4.0,,,118.0,100.0,88.4,4.5,,,100.0,80.0,True,False,False,True
+2011,Roland Garros,R64,Andujar,105.1,112.2,7.3,,,126.0,94.0,88.2,4.4,,,98.0,79.0,True,False,False,True
+2011,Roland Garros,R128,Isner,106.5,112.5,7.6,,,130.0,98.0,90.3,4.5,,,102.0,78.0,True,False,False,True
+2011,Australian Open,QF,Ferrer,104.0,111.3,7.7,,,128.0,96.0,88.0,3.2,,,97.0,82.0,False,False,True,False
+2011,Australian Open,R16,Cilic,108.1,113.6,6.6,,,124.0,101.0,86.9,3.7,,,92.0,79.0,False,False,True,True
+2011,Australian Open,R32,Tomic,103.0,112.9,8.5,,,128.0,90.0,87.5,4.0,,,97.0,80.0,False,False,True,True
+2011,Australian Open,R64,Sweeting,109.2,118.4,8.4,,,129.0,103.0,90.3,3.3,,,97.0,82.0,False,False,True,True
+2011,Australian Open,R128,Daniel,105.2,114.7,8.9,,,127.0,100.0,89.7,2.4,,,94.0,86.0,False,False,True,True
